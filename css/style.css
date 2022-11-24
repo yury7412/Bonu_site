@@ -579,6 +579,18 @@ a{
         border-radius: calc(var(--curve) * 1px);
         overflow: hidden;
         text-decoration: none;
+        width: 300px;
+    }
+}
+
+@media (max-width: 480px) {
+	 .card {
+        position: relative;
+        display: block;
+        height: 100%;
+        border-radius: calc(var(--curve) * 1px);
+        overflow: hidden;
+        text-decoration: none;
         width: 350px;
     }
 }
