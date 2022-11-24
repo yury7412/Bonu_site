@@ -579,7 +579,7 @@ a{
         border-radius: calc(var(--curve) * 1px);
         overflow: hidden;
         text-decoration: none;
-        width: 300px;
+        width: 350px;
     }
 }
 
